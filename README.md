@@ -150,13 +150,13 @@ analyst = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skpkush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skpkush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpkush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpkush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skpkush&theme=tokyonight&hide_border=true" width="65%"/>
+  <img src="https://streak-stats.demolab.com/?user=skpkush&theme=tokyonight&hide_border=true" width="65%"/>
 </div>
 
 <div align="center">
