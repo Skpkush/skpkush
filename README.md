@@ -15,7 +15,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 analyst = {
     "name"        : "Sumit K Prajapat",
     "role"        : "Data Analyst | BI Developer | ML Enthusiast",
@@ -25,7 +24,6 @@ analyst = {
     "working_on"  : "End-to-end analytics pipelines on Azure",
     "philosophy"  : "Every dataset has a story — I find and tell it 📖"
 }
-```
 
 > 🎯 **Proficient in data analysis, statistical analysis, hypothesis testing, customer behavior analysis, and machine learning — delivering business impact across Finance, Healthcare, and E-Commerce.**
 
