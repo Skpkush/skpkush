@@ -16,10 +16,15 @@
 ## 👨‍💻 About Me
 
 🔹 **Role:** Data Analyst | BI Developer | Power BI Certified
+
 🔹 **Focus:** Building dashboards & analytics solutions that drive business decisions
+
 🔹 **Strengths:** Business Intelligence · Data Visualization · Statistical Analysis · Predictive Analytics
+
 🔹 **Tools:** Python · SQL · Power BI · DAX · Azure · Scikit-learn · Streamlit
+
 🔹 **Domains:** Finance & Insurance · Healthcare · E-Commerce · Marketing
+
 🔹 **Certifications:** PL-300 (Power BI) · AWS Cloud Practitioner · CFA Investment Foundations
 
 > 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Power BI dashboards, advanced SQL, statistical analysis, and ML-driven segmentation — delivering measurable business impact across Finance, Healthcare, and E-Commerce.**
