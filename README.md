@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skpkush&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github&logoColor=white)](https://sumitkrprajapat.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/Skpkush)
 [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
 
 </div>
@@ -213,7 +213,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sumitkrprajapat.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skpkush)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
 
 **Open to Data Analyst, BI Developer, and Power BI Developer roles** 🚀
