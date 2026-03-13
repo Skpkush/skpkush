@@ -15,18 +15,12 @@
 
 ## 👨‍💻 About Me
 
-```python
-analyst = {
-    "name"       : "Sumit K Prajapat",
-    "role"       : "Data Engineer | BI Developer | Analytics Professional",
-    "focus"      : "End-to-end data pipelines & cloud analytics on Azure",
-    "strengths"  : ["ETL Pipeline Design", "Business Intelligence", "Data Modeling", "Predictive Analytics"],
-    "tools"      : ["Python", "SQL", "Power BI", "Azure Data Factory", "Azure Blob Storage", "Scikit-learn"],
-    "domains"    : ["Finance & Insurance", "Healthcare", "E-Commerce", "Marketing"],
-    "certifications" : ["PL-300 (Power BI)", "AWS Cloud Practitioner", "CFA Investment Foundations"],
-    "philosophy" : "Build reliable pipelines. Deliver actionable insights. Drive business impact."
-}
-```
+🔹 **Role:** Data Engineer | BI Developer | Analytics Professional
+🔹 **Focus:** End-to-end data pipelines & cloud analytics on Azure
+🔹 **Strengths:** ETL Pipeline Design · Business Intelligence · Data Modeling · Predictive Analytics
+🔹 **Tools:** Python · SQL · Power BI · Azure Data Factory · Azure Blob Storage · Scikit-learn
+🔹 **Domains:** Finance & Insurance · Healthcare · E-Commerce · Marketing
+🔹 **Certifications:** PL-300 (Power BI) · AWS Cloud Practitioner · CFA Investment Foundations
 
 > 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Azure cloud pipelines, advanced SQL, Power BI dashboards, and ML-driven segmentation — delivering measurable impact across Finance, Healthcare, and E-Commerce.**
 
