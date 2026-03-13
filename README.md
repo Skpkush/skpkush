@@ -15,11 +15,16 @@
 
 ## 👨‍💻 About Me
 
-🔹 **Role:** Data Engineer | BI Developer | Analytics Professional
+🔹 **Role:** Data Analytcs | BI Developer | Analytics Professional
+
 🔹 **Focus:** End-to-end data pipelines & cloud analytics on Azure
+
 🔹 **Strengths:** ETL Pipeline Design · Business Intelligence · Data Modeling · Predictive Analytics
+
 🔹 **Tools:** Python · SQL · Power BI · Azure Data Factory · Azure Blob Storage · Scikit-learn
+
 🔹 **Domains:** Finance & Insurance · Healthcare · E-Commerce · Marketing
+
 🔹 **Certifications:** PL-300 (Power BI) · AWS Cloud Practitioner · CFA Investment Foundations
 
 > 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Azure cloud pipelines, advanced SQL, Power BI dashboards, and ML-driven segmentation — delivering measurable impact across Finance, Healthcare, and E-Commerce.**
