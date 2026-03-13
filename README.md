@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Azure;Dashboard+Design+%7C+Data+Storytelling+%7C+ML;PL-300+Certified+Power+BI+Data+Analyst+%E2%9C%85)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skpkush&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkprajapat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github&logoColor=white)](https://sumitkrprajapat.github.io)
 [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
 
@@ -212,7 +212,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkprajapat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sumitkrprajapat.github.io)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
 
