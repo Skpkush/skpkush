@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20K%20Prajapat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%7C%20BI%20Developer%20%7C%20Analytics%20Professional&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20K%20Prajapat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Power%20BI%20Certified&descAlignY=56&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+that+Power+Decisions+%F0%9F%9A%80;Azure+%7C+SQL+%7C+Python+%7C+Power+BI;End-to-End+Analytics+%7C+ETL+%7C+Cloud+Architecture;From+Raw+Data+to+Business+Impact+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Azure;Dashboard+Design+%7C+Data+Storytelling+%7C+ML;PL-300+Certified+Power+BI+Data+Analyst+%E2%9C%85)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skpkush&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkprajapat)
@@ -15,19 +15,14 @@
 
 ## 👨‍💻 About Me
 
-🔹 **Role:** Data Analytcs | BI Developer | Analytics Professional
-
-🔹 **Focus:** End-to-end data pipelines & cloud analytics on Azure
-
-🔹 **Strengths:** ETL Pipeline Design · Business Intelligence · Data Modeling · Predictive Analytics
-
-🔹 **Tools:** Python · SQL · Power BI · Azure Data Factory · Azure Blob Storage · Scikit-learn
-
+🔹 **Role:** Data Analyst | BI Developer | Power BI Certified
+🔹 **Focus:** Building dashboards & analytics solutions that drive business decisions
+🔹 **Strengths:** Business Intelligence · Data Visualization · Statistical Analysis · Predictive Analytics
+🔹 **Tools:** Python · SQL · Power BI · DAX · Azure · Scikit-learn · Streamlit
 🔹 **Domains:** Finance & Insurance · Healthcare · E-Commerce · Marketing
-
 🔹 **Certifications:** PL-300 (Power BI) · AWS Cloud Practitioner · CFA Investment Foundations
 
-> 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Azure cloud pipelines, advanced SQL, Power BI dashboards, and ML-driven segmentation — delivering measurable impact across Finance, Healthcare, and E-Commerce.**
+> 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Power BI dashboards, advanced SQL, statistical analysis, and ML-driven segmentation — delivering measurable business impact across Finance, Healthcare, and E-Commerce.**
 
 ---
 
@@ -62,12 +57,11 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Cloud & Data Engineering</strong></td>
+    <td><strong>Cloud & Database</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -89,14 +83,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Healthcare Insurance Claims Analytics</h3>
-      <p>End-to-end analytics platform with a full <strong>Azure Cloud Pipeline</strong> — Blob Storage → Data Factory → PostgreSQL Flexible Server. Advanced SQL with window functions for fraud detection, cost analysis, and a multi-page Power BI dashboard.</p>
+      <p>End-to-end analytics platform processing claims data on <strong>Azure</strong>. Advanced SQL with window functions for fraud detection, cost driver analysis, and a multi-page <strong>Power BI dashboard</strong> with actionable insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/Azure%20Pipeline-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <strong>Highlights:</strong> Fraud detection queries · Window functions · Cloud ETL pipeline<br/><br/>
+      <strong>Highlights:</strong> Fraud detection queries · Window functions · Multi-page dashboard<br/><br/>
       <a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics">
         <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0078D4?style=for-the-badge"/>
       </a>
@@ -217,7 +211,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sumitkrprajapat.github.io)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
 
-**Open to Data Engineer, Data Analyst, and BI Developer roles** 🚀
+**Open to Data Analyst, BI Developer, and Power BI Developer roles** 🚀
 
 </div>
 
