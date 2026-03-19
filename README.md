@@ -102,19 +102,20 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Olist E-Commerce Analytics Dashboard</h3>
-      <p>Advanced <strong>Power BI dashboards with AI-powered insights</strong> on 100K+ orders — covering sales trends, delivery performance, customer satisfaction, and seller analytics. Built with 40+ DAX measures.</p>
+      <p>End-to-end <strong>Azure cloud data pipeline + Power BI dashboard</strong> on 100K+ Brazilian e-commerce orders — covering sales trends, delivery performance, customer satisfaction, and seller   analytics. Raw CSVs ingested via ADF into Azure PostgreSQL, transformed into a star schema, and visualized with 40+ DAX measures.</p>
       <p>
+        <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       </p>
-      <strong>Highlights:</strong> 40+ DAX measures · AI visuals · Multi-page dashboard<br/><br/>
+      <strong>Highlights:</strong> Azure cloud pipeline · Star schema (112,650 records) · 40+ DAX measures · AI visuals · Multi-page dashboard<br/><br/>
       <a href="https://github.com/skpkush/Olist-E-Commerce-Analytics-Dashboard">
         <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-F2C811?style=for-the-badge&logoColor=black"/>
       </a>
-    </td>
-  </tr>
+  </td>
   <tr>
     <td width="50%" valign="top">
       <h3>👥 Customer Segmentation — RFM + ML Clustering</h3>
