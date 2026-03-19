@@ -87,18 +87,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Healthcare Insurance Claims Analytics</h3>
-      <p>End-to-end analytics platform processing claims data on <strong>Azure</strong>. Advanced SQL with window functions for fraud detection, cost driver analysis, and a multi-page <strong>Power BI dashboard</strong> with actionable insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      </p>
-      <strong>Highlights:</strong> Fraud detection queries · Window functions · Multi-page dashboard<br/><br/>
+    <h3>🏥 Healthcare Insurance Claims Analytics</h3>
+    <p>Production-grade <strong>Azure cloud pipeline</strong> processing insurance claims data — ADF ingestion, ADLS Gen2 storage, Azure PostgreSQL warehouse, Z-score fraud detection with advanced SQL window   functions, and a multi-page <strong>Power BI dashboard</strong> with actionable insights.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    </p>
+      <strong>Highlights:</strong> ADLS Gen2 → ADF → PostgreSQL pipeline · Z-score fraud detection · Window functions · Multi-page Power BI dashboard<br/><br/>
       <a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0078D4?style=for-the-badge"/>
-      </a>
+      <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0078D4?style=for-the-badge"/>
+    </a>
+    </td>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Olist E-Commerce Analytics Dashboard</h3>
