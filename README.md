@@ -187,8 +187,8 @@
 | 📊 **PL-300: Power BI Data Analyst** | Microsoft | ✅ Certified |
 | ☁️ **AWS Cloud Practitioner** | Amazon Web Services | ✅ Certified |
 | 💰 **CFA Investment Foundations** | CFA Institute | ✅ Certified |
-| 🔵 **AZ-900: Azure Fundamentals** | Microsoft | 📖 In Progress |
-| 🔵 **DP-900: Azure Data Fundamentals** | Microsoft | 📖 In Progress |
+| 🔵 **AZ-900: Azure Fundamentals** | Microsoft | ✅ Certified  |
+| 🔵 **DP-900: Azure Data Fundamentals** | Microsoft | ✅ Certified  |
 
 </div>
 
