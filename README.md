@@ -182,13 +182,26 @@
 
 <div align="center">
 
-| Certification | Issuer | Status |
+[![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+[![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+
+[![AWS-CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![CFA](https://img.shields.io/badge/CFA-Investment%20Foundations-003087?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.cfainstitute.org/en/programs/investment-foundations)
+[![HackerRank-SQL](https://img.shields.io/badge/HackerRank-SQL%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/certificates/)
+
+</div>
+
+<div align="center">
+
+| Certification | Issuer | Level |
 |:---|:---|:---|
-| 📊 **PL-300: Power BI Data Analyst** | Microsoft | ✅ Certified |
-| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | ✅ Certified |
-| 💰 **CFA Investment Foundations** | CFA Institute | ✅ Certified |
-| 🔵 **AZ-900: Azure Fundamentals** | Microsoft | ✅ Certified  |
-| 🔵 **DP-900: Azure Data Fundamentals** | Microsoft | ✅ Certified  |
+| 📊 **PL-300: Power BI Data Analyst** | Microsoft | Associate |
+| ☁️ **AZ-900: Azure Fundamentals** | Microsoft | Fundamentals |
+| 🔵 **DP-900: Azure Data Fundamentals** | Microsoft | Fundamentals |
+| 🟠 **AWS Cloud Practitioner** | Amazon Web Services | Foundational |
+| 💰 **CFA Investment Foundations** | CFA Institute | Certificate |
+| 🟢 **SQL Certificate** | HackerRank | Intermediate/Advanced |
 
 </div>
 
