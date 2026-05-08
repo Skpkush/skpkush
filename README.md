@@ -147,33 +147,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 Marketing Campaign A/B Testing</h3>
-      <p>Statistical significance testing on marketing campaigns using <strong>hypothesis testing, p-values, and confidence intervals</strong> to guide spend optimization decisions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Statistics-lightgrey?style=flat"/>
-      </p>
-      <strong>Highlights:</strong> Hypothesis testing · Confidence intervals · Business recommendations<br/><br/>
-      <a href="https://github.com/skpkush/Marketing-Campaign-Analysis-using-AB-testing-statstistics">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-8CAAE6?style=for-the-badge"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🦈 Shark Tank India — SQL Investment Analysis</h3>
-      <p>Deep SQL analysis on Shark Tank India data — deal patterns, sector preferences, valuation trends, and shark-specific investment behavior analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-      </p>
-      <strong>Highlights:</strong> Complex joins · Aggregation analysis · Investment patterns<br/><br/>
-      <a href="https://github.com/skpkush/Shark-Tank-Data-Analysis-Project-SQL">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-4479A1?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
