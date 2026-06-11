@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/sumit-k-prajapat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&labelColor=16121F&logo=linkedin&logoColor=A78BFA"/></a>
-&nbsp;<a href="mailto:sumitkprajapat@gmail.com"><img src="https://img.shields.io/badge/Email-sumitkprajapat@gmail.com-5B21B6?style=flat-square&labelColor=16121F&logo=gmail&logoColor=A78BFA"/></a>
+&nbsp;<a href="mailto:sumitkprajapat29@gmail.com"><img src="https://img.shields.io/badge/Email-sumitkprajapat29@gmail.com-5B21B6?style=flat-square&labelColor=16121F&logo=gmail&logoColor=A78BFA"/></a>
 &nbsp;<!-- TODO: point at the live portfolio once deployed --><a href="https://github.com/Skpkush"><img src="https://img.shields.io/badge/Portfolio-Skpkush-5B21B6?style=flat-square&labelColor=16121F&logo=github&logoColor=A78BFA"/></a>
 
 <img src="assets/divider.svg" width="100%"/>
