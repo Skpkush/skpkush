@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Sumit Kumar Prajapat — Data Analyst · BI Developer · PL-300 Certified"/>
+<img src="assets/hero.svg" width="100%" alt="Sumit Prajapat — Data Analyst · BI Developer · PL-300 Certified"/>
 
 <br/><br/>
 
