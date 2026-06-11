@@ -1,215 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20K%20Prajapat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Power%20BI%20Certified&descAlignY=56&descAlign=50" width="100%"/>
+# Sumit Kumar Prajapat
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Azure;Dashboard+Design+%7C+Data+Storytelling+%7C+ML;PL-300+Certified+Power+BI+Data+Analyst+%E2%9C%85)](https://git.io/typing-svg)
+**Data Analyst · BI Developer · Power BI Certified (PL-300)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=skpkush&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/Skpkush)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
+[![Email](https://img.shields.io/badge/Email-sumitkprajapat%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
+<!-- TODO: once the portfolio site is live, point this badge at it -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Skpkush-181717?style=flat&logo=github&logoColor=white)](https://github.com/Skpkush)
 
 </div>
 
----
+```sql
+sumit=# SELECT * FROM analysts
+        WHERE role IN ('data_analyst','bi_developer')
+        AND certified = TRUE
+        LIMIT 1;
 
-## 👨‍💻 About Me
-
-🔹 **Role:** Data Analyst | BI Developer | Power BI Certified
-
-🔹 **Focus:** Building dashboards & analytics solutions that drive business decisions
-
-🔹 **Strengths:** Business Intelligence · Data Visualization · Statistical Analysis · Predictive Analytics
-
-🔹 **Tools:** Python · SQL · Power BI · DAX · Azure · Scikit-learn · Streamlit
-
-🔹 **Domains:** Finance & Insurance · Healthcare · E-Commerce · Marketing
-
-🔹 **Certifications:** PL-300 (Power BI) · AWS Cloud Practitioner · CFA Investment Foundations
-
-> 🎯 **B.Com graduate with 2+ years in data analytics, specializing in Power BI dashboards, advanced SQL, statistical analysis, and ML-driven segmentation — delivering measurable business impact across Finance, Healthcare, and E-Commerce.**
+ name                 | focus                                    | status
+----------------------+------------------------------------------+--------------
+ Sumit Kumar Prajapat | SQL · Power BI · Python · Azure ETL · ML | open_to_work
+(1 row)  ✓ 0.042s
+```
 
 ---
 
-## 🛠️ Tech Stack
+## $ whoami
 
-<table>
-  <tr>
-    <td><strong>Languages & Querying</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data & ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>BI & Visualization</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & Database</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+- 📊 I build **end-to-end analytics**: raw data → Azure pipelines → SQL warehouses → Power BI dashboards → ML models
+- 🏦 **2+ years in BFSI** (insurance products, customers, claims) — freelance Data Analyst with Finonus Capital
+- 🎓 B.Com graduate · Microsoft & AWS certified across the data stack
+- 🌍 **Domains:** Finance & Insurance · Healthcare · E-Commerce
+- 🎯 **Open to:** Data Analyst · BI Developer · Power BI Developer roles
 
 ---
 
-## 🚀 Featured Projects
+## ~/skills.yaml
+
+| Group | Stack |
+|:---|:---|
+| **Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **SQL & ETL** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Star Schema](https://img.shields.io/badge/Star%20Schema-4B5563?style=flat) |
+| **Python & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-005571?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Cloud & Tools** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+
+---
+
+## ~/projects.sql — `SELECT * FROM projects ORDER BY impact DESC;`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-    <h3>🏥 Healthcare Insurance Claims Analytics</h3>
-    <p>Production-grade <strong>Azure cloud pipeline</strong> processing insurance claims data — ADF ingestion, ADLS Gen2 storage, Azure PostgreSQL warehouse, Z-score fraud detection with advanced SQL window   functions, and a multi-page <strong>Power BI dashboard</strong> with actionable insights.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    </p>
-      <strong>Highlights:</strong> ADLS Gen2 → ADF → PostgreSQL pipeline · Z-score fraud detection · Window functions · Multi-page Power BI dashboard<br/><br/>
-      <a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics">
-      <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0078D4?style=for-the-badge"/>
-    </a>
+      <h3>🏥 Healthcare Provider Fraud Detection</h3>
+      <p>End-to-end fraud analytics on <b>558,211 real Medicare claims · 5,410 providers</b>. Azure Blob → ADF → PostgreSQL star schema (9 tables, 2.43M rows), 28 engineered SQL features, and a 3-model ML comparison — <b>Logistic Regression wins: AUC 0.9573, 90.1% recall</b>. 4-page Power BI dashboard with drill-through.</p>
+      <p><b>Hero finding:</b> top-quartile billing providers are <b>226× more likely</b> to be fraudulent (34.02% vs 0.15%), with $295.68M reimbursement exposure.</p>
+      <p><img src="https://img.shields.io/badge/Azure%20ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></p>
+      <a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-18181B?style=for-the-badge"/></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>📈 Mutual Fund Analytics Platform</h3>
+      <p>Production-style fund analytics on <b>9M+ NAV rows · 10,571 funds · 51 AMCs</b> (Yahoo Finance + AMFI). Azure Blob → ADF → star schema (5 dim + 4 fact), <b>25+ DAX measures</b> across a 4-page Power BI dashboard, full risk-metric suite (CAGR, Sharpe, Sortino, alpha/beta, drawdown), and <b>Prophet 30/60/90-day NAV forecasting</b> served via Streamlit.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Prophet-005571?style=flat"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></p>
+      <a href="https://github.com/Skpkush/mf-analytics-platform"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-18181B?style=for-the-badge"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛒 Olist E-Commerce Analytics Dashboard</h3>
-      <p>End-to-end <strong>Azure cloud data pipeline + Power BI dashboard</strong> on 100K+ Brazilian e-commerce orders — covering sales trends, delivery performance, customer satisfaction, and seller   analytics. Raw CSVs ingested via ADF into Azure PostgreSQL, transformed into a star schema, and visualized with 40+ DAX measures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      </p>
-      <strong>Highlights:</strong> Azure cloud pipeline · Star schema (112,650 records) · 40+ DAX measures · AI visuals · Multi-page dashboard<br/><br/>
-      <a href="https://github.com/skpkush/Olist-E-Commerce-Analytics-Dashboard">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-F2C811?style=for-the-badge&logoColor=black"/>
-      </a>
-  </td>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 Customer Segmentation — RFM + ML Clustering</h3>
-      <p>Identifies high-value customer tiers using <strong>RFM Analysis + K-Means/DBSCAN</strong>. Actionable segments for marketing targeting and churn reduction, deployed via Streamlit.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      </p>
-      <strong>Highlights:</strong> K-Means & DBSCAN · RFM scoring · Streamlit deployment<br/><br/>
-      <a href="https://github.com/skpkush/Customer-Segmentation">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-F7931E?style=for-the-badge"/>
-      </a>
+      <p>Azure cloud pipeline + Power BI on Brazilian e-commerce: star schema (<b>4 dims + 1 fact, 112,650 records</b>), <b>40+ DAX measures</b>, AI visuals (Decomposition Tree, Key Influencers), and what-if price simulation across 3 dashboard pages.</p>
+      <p><b>Key insight:</b> ~97% of buyers are one-time customers (measured on the correct <code>customer_unique_id</code> grain) — loyalty program recommended; 91.88% on-time delivery beats the 90% target.</p>
+      <p><img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black"/></p>
+      <a href="https://github.com/Skpkush/Olist-E-Commerce-Analytics-Dashboard"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-18181B?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Indian Financial Market App</h3>
-      <p>Real-time Streamlit app for Indian stock market analysis — live price feeds, technical indicators, and statistical summaries for informed trading decisions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/yFinance-0064A5?style=flat"/>
-      </p>
-      <strong>Highlights:</strong> Live market data · Technical indicators · Interactive charts<br/><br/>
-      <a href="https://github.com/skpkush/Indian-Financial-Market-App">
-        <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-FF4B4B?style=for-the-badge"/>
-      </a>
+      <h3>👥 Customer Segmentation — RFM + ML Clustering</h3>
+      <p>Behavioral segmentation on ~541K UK retail transactions: <b>RFM scoring</b> + K-Means vs Hierarchical vs DBSCAN (validated with Silhouette <b>0.52</b>, Davies-Bouldin, Calinski-Harabasz), PCA 3D cluster views, cohort retention, and CLV — with per-segment marketing strategy and budget split.</p>
+      <p><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></p>
+      <a href="https://customer-segmentation-g4vjra3jvttxstxguxhnff.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-%E2%86%92-15803D?style=for-the-badge"/></a>
+      <a href="https://github.com/Skpkush/Customer-Segmentation"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-18181B?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📜 Certifications
+## ~/journey.git
 
-<div align="center">
+```bash
+$ git log --oneline career
+f4a91c2 (HEAD -> main) now:  open to Data Analyst & BI Developer roles
+8d3e7b1 feat: 4 end-to-end analytics builds shipped (Azure ETL → SQL → Power BI → ML)
+c2a94f0 cert: PL-300 · AZ-900 · DP-900 · AWS Cloud Practitioner
+7b1d3a9 job:  freelance Data Analyst @ Finonus Capital (financial services)
+3e8c5d2 job:  Marketing Executive @ Shriram General Insurance — BFSI grounding
+1c0b8a3 init: B.Com — University of Calcutta
+```
 
-[![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-[![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+---
 
-[![AWS-CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![CFA](https://img.shields.io/badge/CFA-Investment%20Foundations-003087?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.cfainstitute.org/en/programs/investment-foundations)
-[![HackerRank-SQL](https://img.shields.io/badge/HackerRank-SQL%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/certificates/)
+## ~/certs.test
 
-</div>
-
-<div align="center">
+<!-- Keep CFA Investment Foundations and HackerRank SQL ONLY if completed — delete the rows otherwise -->
 
 | Certification | Issuer | Level |
 |:---|:---|:---|
-| 📊 **PL-300: Power BI Data Analyst** | Microsoft | Associate |
-| ☁️ **AZ-900: Azure Fundamentals** | Microsoft | Fundamentals |
-| 🔵 **DP-900: Azure Data Fundamentals** | Microsoft | Fundamentals |
-| 🟠 **AWS Cloud Practitioner** | Amazon Web Services | Foundational |
+| 📊 **PL-300 — Power BI Data Analyst** | Microsoft | Associate |
+| ☁️ **AZ-900 — Azure Fundamentals** | Microsoft | Fundamentals |
+| 🗄️ **DP-900 — Azure Data Fundamentals** | Microsoft | Fundamentals |
+| 🟠 **AWS Certified Cloud Practitioner** | Amazon Web Services | Foundational |
 | 💰 **CFA Investment Foundations** | CFA Institute | Certificate |
 | 🟢 **SQL Certificate** | HackerRank | Intermediate/Advanced |
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skpkush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skpkush&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpkush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpkush&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=skpkush&theme=tokyonight&hide_border=true" width="65%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skpkush&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7" width="92%"/>
+  <img src="https://streak-stats.demolab.com/?user=skpkush&theme=graywhite&hide_border=true" width="60%"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## ~/contact.json
+
+```json
+{
+  "email":    "sumitkprajapat@gmail.com",
+  "linkedin": "linkedin.com/in/sumit-k-prajapat",
+  "github":   "github.com/Skpkush",
+  "location": "Rajasthan, India · remote-friendly",
+  "status":   "open_to_work"
+}
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-k-prajapat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skpkush)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkprajapat@gmail.com)
+**Open to Data Analyst, BI Developer & Power BI Developer roles**
 
-**Open to Data Analyst, BI Developer, and Power BI Developer roles** 🚀
+`Process finished with exit code 0` · *Transforming data into business value*
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
