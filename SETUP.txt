@@ -1,0 +1,18 @@
+GITHUB PROFILE KIT — Sumit Kumar Prajapat
+==========================================
+Upload to your Skpkush/Skpkush repository:
+
+1. README.md            -> repo root (replace existing)
+2. assets/  (4 SVGs)    -> upload the whole folder to repo root
+   (the README loads hero/pipeline/divider/footer from assets/,
+    so the folder name and location must stay exactly "assets/")
+3. snake.yml (optional) -> .github/workflows/snake.yml
+   then: Settings > Actions > General > Workflow permissions > "Read and write"
+   then: Actions tab > "generate snake" > Run workflow
+   then: uncomment the snake block near the bottom of README.md
+
+Notes:
+- The hero bars/sparkline and pipeline animations play automatically on github.com
+- Check on desktop; GitHub mobile app may show SVGs without animation
+- Delete the CFA / HackerRank credential badges if not completed
+- Swap the Portfolio badge URL once the portfolio site is deployed
