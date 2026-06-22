@@ -2,12 +2,11 @@
 
 <img src="assets/hero.svg" width="100%" alt="Sumit Prajapat — Data Analyst · BI Developer · PL-300 Certified"/>
 
-<br/><br/>
 
+<br/><br/>
 <a href="https://www.linkedin.com/in/sumit-k-prajapat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&labelColor=16121F&logo=linkedin&logoColor=A78BFA"/></a>
 &nbsp;<a href="mailto:sumitkprajapat29@gmail.com"><img src="https://img.shields.io/badge/Email-sumitkprajapat29@gmail.com-5B21B6?style=flat-square&labelColor=16121F&logo=gmail&logoColor=A78BFA"/></a>
-&nbsp;<!-- TODO: point at the live portfolio once deployed --><a href="https://skpkush.github.io/Sumit_analystics/"><img src="https://img.shields.io/badge/Portfolio-Skpkush-5B21B6?style=flat-square&labelColor=16121F&logo=github&logoColor=A78BFA"/></a>
-
+&nbsp;<a href="https://skpkush.github.io/Sumit_analytics/"><img src="https://img.shields.io/badge/Portfolio-Live-5B21B6?style=flat-square&labelColor=16121F&logo=github&logoColor=A78BFA"/></a>
 <img src="assets/divider.svg" width="100%"/>
 
 </div>
