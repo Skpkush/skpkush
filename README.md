@@ -1,49 +1,115 @@
-<svg viewBox="0 0 1000 170" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-    .tbl { font-size: 14px; fill: #E6EDF3; font-weight: 700; }
-    .sub { font-size: 11px; fill: #8B949E; }
-    .cap { font-size: 12px; fill: #3FB950; }
-    .flow { stroke: #E0B341; stroke-width: 2; stroke-dasharray: 6 6; animation: dash 1.2s linear infinite; }
-    @keyframes dash { to { stroke-dashoffset: -12; } }
-  </style>
+<div align="center">
 
-  <rect x="2" y="2" width="996" height="166" rx="10" fill="#0D1117" stroke="#30363D"/>
-  <text x="24" y="30" class="cap">sumit_prajapat=# EXPLAIN ANALYZE how_i_ship;   -- every project, end to end</text>
+<img src="assets/hero.svg" width="100%" alt="Sumit Prajapat — Data Analyst · BI Developer · PL-300 Certified"/>
 
-  <!-- boxes -->
-  <g>
-    <rect x="28"  y="56" width="138" height="62" rx="8" fill="#161B22" stroke="#3FB950"/>
-    <text x="97"  y="82" text-anchor="middle" class="tbl">raw_data</text>
-    <text x="97"  y="102" text-anchor="middle" class="sub">csv · api · files</text>
+<br/><br/>
 
-    <rect x="190" y="56" width="138" height="62" rx="8" fill="#161B22" stroke="#3FB950"/>
-    <text x="259" y="82" text-anchor="middle" class="tbl">azure_blob</text>
-    <text x="259" y="102" text-anchor="middle" class="sub">landing zone</text>
+<a href="https://www.linkedin.com/in/sumit-k-prajapat/"><img src="https://img.shields.io/badge/LinkedIn-connect-3FB950?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=3FB950"/></a>
+&nbsp;<a href="mailto:sumitkprajapat29@gmail.com"><img src="https://img.shields.io/badge/Email-sumitkprajapat29@gmail.com-E0B341?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=E0B341"/></a>
+&nbsp;<a href="https://skpkush.github.io/Sumit_analystics/"><img src="https://img.shields.io/badge/Portfolio-live-58A6FF?style=flat-square&labelColor=0D1117&logo=github&logoColor=58A6FF"/></a>
 
-    <rect x="352" y="56" width="138" height="62" rx="8" fill="#161B22" stroke="#3FB950"/>
-    <text x="421" y="82" text-anchor="middle" class="tbl">data_factory</text>
-    <text x="421" y="102" text-anchor="middle" class="sub">ETL pipelines</text>
+</div>
 
-    <rect x="514" y="56" width="138" height="62" rx="8" fill="#161B22" stroke="#3FB950"/>
-    <text x="583" y="82" text-anchor="middle" class="tbl">postgresql</text>
-    <text x="583" y="102" text-anchor="middle" class="sub">star schema</text>
+<br/>
 
-    <rect x="676" y="56" width="150" height="62" rx="8" fill="#161B22" stroke="#3FB950"/>
-    <text x="751" y="82" text-anchor="middle" class="tbl">power_bi + ml</text>
-    <text x="751" y="102" text-anchor="middle" class="sub">DAX · scikit-learn</text>
+```sql
+sumit_prajapat=# SELECT * FROM about WHERE honest = true;
+```
 
-    <rect x="850" y="56" width="122" height="62" rx="8" fill="#161B22" stroke="#E0B341"/>
-    <text x="911" y="82" text-anchor="middle" class="tbl" fill="#E0B341">decisions</text>
-    <text x="911" y="102" text-anchor="middle" class="sub">one headline</text>
-  </g>
+I take data the whole way: **ingestion → Azure pipelines → SQL star schemas → Power BI dashboards → ML models** — and I lead every dashboard with **one quantified headline**, not a wall of charts.
 
-  <!-- animated flow arrows -->
-  <line x1="166" y1="87" x2="190" y2="87" class="flow"/>
-  <line x1="328" y1="87" x2="352" y2="87" class="flow"/>
-  <line x1="490" y1="87" x2="514" y2="87" class="flow"/>
-  <line x1="652" y1="87" x2="676" y2="87" class="flow"/>
-  <line x1="826" y1="87" x2="850" y2="87" class="flow"/>
+**2+ years inside BFSI** selling and servicing insurance products *before* analyzing them — now a freelance Data Analyst with **Finonus Capital**. B.Com graduate, **Microsoft (PL-300 · AZ-900 · DP-900) and AWS certified**.
 
-  <text x="24" y="152" class="sub">Execution time: shipped. Rows affected: every stakeholder in the room.</text>
-</svg>
+> `-- The kind of analyst who measures e-commerce retention on customer_unique_id — the real person —`
+> `-- and flags a dataset cut-off artifact before anyone misreads it as a downturn.`
+
+**Domains** <kbd>Finance & Insurance</kbd> <kbd>Healthcare</kbd> <kbd>E-Commerce</kbd> &nbsp;·&nbsp; **Seeking** <kbd>Data Analyst</kbd> <kbd>BI Developer</kbd> <kbd>Power BI Developer</kbd>
+
+<img src="assets/divider.svg" width="100%"/>
+
+```sql
+sumit_prajapat=# EXPLAIN ANALYZE how_i_ship;
+```
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="raw_data → azure_blob → data_factory → postgresql star schema → power_bi + ml → decisions"/>
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
+
+```sql
+sumit_prajapat=# SELECT project, headline_metric, stack
+sumit_prajapat-# FROM   featured_work
+sumit_prajapat-# ORDER  BY impact DESC;   -- 4 rows returned
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics"><code>[01]</code> Healthcare Insurance Claims Analytics</a></h3>
+      <p><b>558,211 Medicare claims → 226× fraud concentration finding</b></p>
+      <p><sub>Azure Data Factory ingestion → PostgreSQL 9-table warehouse → scikit-learn fraud model (<b>90.1% recall · AUC 0.9573</b>) → 4-page executive Power BI report.</sub></p>
+      <p><kbd>Azure ADF</kbd> <kbd>PostgreSQL</kbd> <kbd>scikit-learn</kbd> <kbd>Power BI</kbd></p>
+      <p><a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics"><code>→ view repo</code></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Skpkush/mf-analytics-platform"><code>[02]</code> Mutual Fund Analytics Platform</a></h3>
+      <p><b>9M+ NAV rows · 10,571 funds · 51 AMCs</b></p>
+      <p><sub>Production-grade 5-dimension / 4-fact star schema · full risk suite (Sharpe, Sortino, alpha/beta, drawdown) · Prophet 30/60/90-day NAV forecasts · Streamlit front-end.</sub></p>
+      <p><kbd>Star Schema</kbd> <kbd>Python</kbd> <kbd>Prophet</kbd> <kbd>Streamlit</kbd></p>
+      <p><a href="https://github.com/Skpkush/mf-analytics-platform"><code>→ view repo</code></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Skpkush/Olist-E-Commerce-Analytics-Dashboard"><code>[03]</code> Olist E-Commerce Analytics</a></h3>
+      <p><b>112,650-record warehouse · 40+ DAX measures</b></p>
+      <p><sub>Uncovered <b>~97% one-time buyers</b> by measuring retention on the correct customer grain (<code>customer_unique_id</code>) · AI visuals · what-if price simulation.</sub></p>
+      <p><kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>SQL</kbd> <kbd>Power Query</kbd></p>
+      <p><a href="https://github.com/Skpkush/Olist-E-Commerce-Analytics-Dashboard"><code>→ view repo</code></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Skpkush/Customer-Segmentation"><code>[04]</code> Customer Segmentation Engine</a></h3>
+      <p><b>RFM + 3 clustering models · Silhouette 0.52</b></p>
+      <p><sub>K-Means vs Hierarchical vs DBSCAN benchmarked head-to-head · CLV estimation · cohort analysis · deployed as an interactive app.</sub></p>
+      <p><kbd>Python</kbd> <kbd>scikit-learn</kbd> <kbd>Pandas</kbd> <kbd>Streamlit</kbd></p>
+      <p><a href="https://github.com/Skpkush/Customer-Segmentation"><code>→ view repo</code></a> &nbsp; <a href="https://customer-segmentation-g4vjra3jvttxstxguxhnff.streamlit.app/"><code>🟢 live demo</code></a></p>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%"/>
+
+```sql
+sumit_prajapat=# SELECT category, tools FROM toolkit GROUP BY category;
+```
+
+| `category`         | `tools`                                                                                                     |
+| :----------------- | :---------------------------------------------------------------------------------------------------------- |
+| `business_intel`   | <kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Power Query</kbd> <kbd>Excel</kbd>                                    |
+| `data_engineering` | <kbd>SQL</kbd> <kbd>PostgreSQL</kbd> <kbd>Azure Data Factory</kbd> <kbd>Star Schema</kbd> <kbd>ETL</kbd>      |
+| `python_ml`        | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>scikit-learn</kbd> <kbd>Prophet</kbd> <kbd>Streamlit</kbd> |
+| `cloud_and_ops`    | <kbd>Microsoft Azure</kbd> <kbd>AWS</kbd> <kbd>Git</kbd> <kbd>Jupyter</kbd>                                   |
+
+<img src="assets/divider.svg" width="100%"/>
+
+```sql
+sumit_prajapat=# SELECT * FROM certifications WHERE verified = true;
+```
+
+| `credential`                    | `issuer`      | `status`                                                                                                     |
+| :------------------------------ | :------------ | :------------------------------------------------------------------------------------------------------------ |
+| ★ **PL-300** · Power BI Data Analyst Associate | Microsoft     | [`→ verify`](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)             |
+| **AZ-900** · Azure Fundamentals              | Microsoft     | [`→ verify`](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)                 |
+| **DP-900** · Azure Data Fundamentals         | Microsoft     | [`→ verify`](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)            |
+| **Cloud Practitioner**                       | AWS           | [`→ verify`](https://aws.amazon.com/certification/certified-cloud-practitioner/)                               |
+| **Investment Foundations**                   | CFA Institute | [`→ verify`](https://www.cfainstitute.org/en/programs/investment-foundations)                                  |
+| **SQL Certified**                            | HackerRank    | [`→ verify`](https://www.hackerrank.com/certificates/)                                                         |
+
+<img src="assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="COMMIT; — open to Data Analyst and BI Developer roles — sumitkprajapat29@gmail.com"/>
+
+</div>
