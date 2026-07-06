@@ -32,6 +32,7 @@ sumit_prajapat=# EXPLAIN ANALYZE how_i_ship;
 ```
 
 <div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="EXPLAIN ANALYZE how_i_ship: raw_data → azure_blob → data_factory → postgresql star schema → power_bi + ml → decisions, with quality gates: grain checks, null audits, dedup, reconcile to source, artifact-vs-signal test"/>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
