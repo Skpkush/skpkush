@@ -1,0 +1,5 @@
+<svg viewBox="0 0 1000 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="462" y2="12" stroke="#30363D" stroke-width="1.5" stroke-dasharray="8 6"/>
+  <text x="500" y="17" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="13" fill="#3FB950">--</text>
+  <line x1="538" y1="12" x2="1000" y2="12" stroke="#30363D" stroke-width="1.5" stroke-dasharray="8 6"/>
+</svg>
