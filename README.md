@@ -95,6 +95,12 @@ sumit_prajapat=# \x on   -- expanded display: full detail per project
   </tr>
 </table>
 
+<h3><a href="https://github.com/Skpkush/Queryscratch"><code>[05]</code> Queryscratch</a></h3>
+<p><b>Interactive SQL playground and query sharing site</b></p>
+<p><sub>Live: https://www.queryscratch.com/ · Repo: https://github.com/Skpkush/Queryscratch</sub></p>
+<p><kbd>SQL</kbd> <kbd>JavaScript</kbd> <kbd>Web</kbd></p>
+<p><a href="https://github.com/Skpkush/Queryscratch"><code>→ view repo</code></a></p>
+
 <img src="assets/divider.svg" width="100%"/>
 
 ```sql
