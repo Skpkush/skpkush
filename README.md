@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/sumit-k-prajapat/"><img src="https://img.shields.io/badge/LinkedIn-connect-3FB950?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=3FB950"/></a>
 &nbsp;<a href="mailto:sumitkprajapat29@gmail.com"><img src="https://img.shields.io/badge/Email-sumitkprajapat29@gmail.com-E0B341?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=E0B341"/></a>
-&nbsp;<a href="https://skpkush.github.io/Sumit_analystics/"><img src="https://img.shields.io/badge/Portfolio-live-58A6FF?style=flat-square&labelColor=0D1117&logo=github&logoColor=58A6FF"/></a>
+&nbsp;<a href="https://skpkush.github.io/Sumitkprajapat/"><img src="https://img.shields.io/badge/Portfolio-live-58A6FF?style=flat-square&labelColor=0D1117&logo=github&logoColor=58A6FF"/></a>
 
 </div>
 
