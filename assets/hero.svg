@@ -43,7 +43,7 @@
   <text x="84" y="220" fill="#C8C2DC" font-size="12.5">Open to Data Analyst &amp; BI roles</text>
 
   <!-- quiet metrics under pill -->
-  <text x="340" y="220" fill="#8B85A0" font-size="12">1.46M transactions  ·  558K+ claims  ·  9M+ rows</text>
+  <text x="340" y="220" fill="#8B85A0" font-size="12">1.46M transactions  ·  558K+ claims  ·  6 builds</text>
 
   <!-- right: mini dashboard card -->
   <g>
