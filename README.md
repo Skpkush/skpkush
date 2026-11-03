@@ -47,7 +47,7 @@ sumit_prajapat-# ORDER  BY impact DESC;
 
 | `#`  | `project`                             | `headline_metric`                                  |
 | :--- | :------------------------------------ | :------------------------------------------------- |
-| `01` | Grocery Retail Analytics `NEW`        | 1.46M transactions → **50.6% of coupons go to habitual buyers** |
+| `01` | Grocery Retail Analytics `NEW`        | dbt · 1.46M transactions → **50.6% of coupons go to habitual buyers** |
 | `02` | Healthcare Insurance Claims Analytics | 558,211 claims → **226× fraud concentration**      |
 | `03` | Mutual Fund Analytics Platform        | **14,384 schemes** · 51 AMCs · Prophet forecasts   |
 | `04` | Olist E-Commerce Analytics            | 112,650 records → **~97% one-time buyers** exposed |
@@ -65,18 +65,18 @@ sumit_prajapat=# \x on   -- expanded display: full detail per project
     <td valign="top">
       <h3><a href="https://github.com/Skpkush/grocery-retail-analytics"><code>[01]</code> Grocery Retail Analytics</a> &nbsp;<sub><code>★ latest build</code></sub></h3>
       <p><b>1.46M real transactions · 2,469 households · does promo spend actually change behaviour?</b></p>
-      <p><a href="https://github.com/Skpkush/grocery-retail-analytics"><img src="https://raw.githubusercontent.com/Skpkush/grocery-retail-analytics/main/docs/images/powerbi_1_executive_overview.png" width="49%" alt="Power BI Executive Overview"/></a> <a href="https://github.com/Skpkush/grocery-retail-analytics"><img src="https://raw.githubusercontent.com/Skpkush/grocery-retail-analytics/main/docs/images/powerbi_4_promotion_effectiveness.png" width="49%" alt="Power BI Promotion Effectiveness"/></a></p>
+      <p><a href="https://github.com/Skpkush/grocery-retail-analytics"><img src="https://raw.githubusercontent.com/Skpkush/grocery-retail-analytics/main/docs/images/powerbi_1_executive_overview.png" width="49%" alt="Power BI Executive Overview"/></a> <a href="https://github.com/Skpkush/grocery-retail-analytics"><img src="https://raw.githubusercontent.com/Skpkush/grocery-retail-analytics/main/docs/images/dbt_lineage.png" width="49%" alt="dbt lineage graph from sources to the Power BI report"/></a></p>
       <table>
         <tr>
           <td align="center" width="25%"><b>1.46M</b><br/><sub>transactions</sub></td>
           <td align="center" width="25%"><b>50.6%</b><br/><sub>habitual coupons</sub></td>
-          <td align="center" width="25%"><b>225%</b><br/><sub>display+mailer lift</sub></td>
+          <td align="center" width="25%"><b>102</b><br/><sub>dbt data tests</sub></td>
           <td align="center" width="25%"><b>58/58</b><br/><sub>DAX = SQL</sub></td>
         </tr>
       </table>
-      <p><sub>24-check data-quality gate → DuckDB star schema → 13 SQL analyses → difference-in-differences with placebo tests → 5-page Power BI report (44 DAX measures) + Streamlit app with a cite-or-refuse “ask the data” assistant.</sub></p>
-      <ul><li>Top 10% of households drive <b>34.2%</b> of sales; 318 lapsing regulars hold <b>13.4%</b></li><li>Placebo checks failed → campaign ROI unmeasurable; recommended a <b>10% random holdout</b></li><li>SQL-vs-DAX reconciliation caught <b>3 DAX bugs</b> before they reached the report</li></ul>
-      <p><kbd>Python</kbd> <kbd>DuckDB SQL</kbd> <kbd>statsmodels</kbd> <kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Streamlit</kbd> <kbd>GitHub Actions</kbd></p>
+      <p><sub>dbt project on DuckDB: 28 models (staging → intermediate → marts), 102 data tests + 6 unit tests, incremental fact tables and CI on every push → 13 SQL analyses → difference-in-differences with placebo tests → 5-page Power BI report (45 DAX measures) + Streamlit app with a cite-or-refuse “ask the data” assistant.</sub></p>
+      <ul><li>Top 10% of households drive <b>34.2%</b> of sales; 318 lapsing regulars hold <b>13.4%</b></li><li>Display + mailer linked to <b>225%</b> higher sales; placebo checks failed → recommended a <b>10% random holdout</b></li><li>Moved to dbt with every table checked row by row against the old pipeline; SQL-vs-DAX reconciliation caught <b>3 DAX bugs</b></li></ul>
+      <p><kbd>dbt</kbd> <kbd>DuckDB</kbd> <kbd>SQL</kbd> <kbd>Python</kbd> <kbd>statsmodels</kbd> <kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Streamlit</kbd> <kbd>GitHub Actions</kbd></p>
       <p><a href="https://github.com/Skpkush/grocery-retail-analytics"><code>→ view repo</code></a> &nbsp; <a href="https://grocery-retail-analytics-gej2xcqxwhwypm7lvjhher.streamlit.app/"><code>🟢 live</code></a></p>
     </td>
   </tr>
@@ -186,7 +186,7 @@ sumit_prajapat=# SELECT category, tools FROM toolkit GROUP BY category;
 | `category`         | `tools`                                                                                                     |
 | :----------------- | :---------------------------------------------------------------------------------------------------------- |
 | `business_intel`   | <kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Power Query</kbd> <kbd>Excel</kbd>                                    |
-| `data_engineering` | <kbd>SQL</kbd> <kbd>PostgreSQL</kbd> <kbd>DuckDB</kbd> <kbd>Azure Data Factory</kbd> <kbd>Star Schema</kbd> <kbd>ETL</kbd>      |
+| `data_engineering` | <kbd>SQL</kbd> <kbd>dbt</kbd> <kbd>PostgreSQL</kbd> <kbd>DuckDB</kbd> <kbd>Azure Data Factory</kbd> <kbd>Star Schema</kbd> <kbd>ETL</kbd>      |
 | `python_ml`        | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>scikit-learn</kbd> <kbd>statsmodels</kbd> <kbd>Prophet</kbd> <kbd>Streamlit</kbd> |
 | `cloud_and_ops`    | <kbd>Microsoft Azure</kbd> <kbd>AWS</kbd> <kbd>Git</kbd> <kbd>GitHub Actions</kbd> <kbd>Jupyter</kbd>                                   |
 
