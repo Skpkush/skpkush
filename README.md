@@ -49,7 +49,7 @@ sumit_prajapat-# ORDER  BY impact DESC;
 | :--- | :------------------------------------ | :------------------------------------------------- |
 | `01` | Grocery Retail Analytics `NEW`        | dbt · 1.46M transactions → **50.6% of coupons go to habitual buyers** |
 | `02` | Healthcare Insurance Claims Analytics | 558,211 claims → **226× fraud concentration**      |
-| `03` | Mutual Fund Analytics Platform        | **14,384 schemes** · 51 AMCs · Prophet forecasts   |
+| `03` | Mutual Fund Analytics Platform        | 9.7M daily NAVs → **5-fund moderate-risk shortlist** |
 | `04` | Olist E-Commerce Analytics            | 112,650 records → **~97% one-time buyers** exposed |
 | `05` | Customer Segmentation Engine          | RFM + 3 models · **Silhouette 0.52** · live app    |
 | `06` | Queryscratch                          | **500 SQL questions** · in-browser SQL sandbox     |
@@ -102,18 +102,18 @@ sumit_prajapat=# \x on   -- expanded display: full detail per project
   <tr>
     <td valign="top">
       <h3><a href="https://github.com/Skpkush/mf-analytics-platform"><code>[03]</code> Mutual Fund Analytics Platform</a></h3>
-      <p><b>14,384 schemes · 51 AMCs · one risk framework for every fund</b></p>
+      <p><b>9.7M daily NAVs · 8,620 live schemes · which 5 funds suit a moderate-risk client?</b></p>
       <p><a href="https://github.com/Skpkush/mf-analytics-platform"><img src="https://raw.githubusercontent.com/Skpkush/mf-analytics-platform/main/docs/screenshots/page1_executive.png" width="49%" alt="Power BI Executive Overview"/></a> <a href="https://github.com/Skpkush/mf-analytics-platform"><img src="https://raw.githubusercontent.com/Skpkush/mf-analytics-platform/main/docs/screenshots/page4_risk.png" width="49%" alt="Power BI Risk & Volatility page"/></a></p>
       <table>
         <tr>
-          <td align="center" width="25%"><b>14,384</b><br/><sub>fund schemes</sub></td>
-          <td align="center" width="25%"><b>51</b><br/><sub>AMCs</sub></td>
-          <td align="center" width="25%"><b>5 + 4</b><br/><sub>dim + fact tables</sub></td>
-          <td align="center" width="25%"><b>25+</b><br/><sub>DAX measures</sub></td>
+          <td align="center" width="25%"><b>8,620</b><br/><sub>live schemes</sub></td>
+          <td align="center" width="25%"><b>9.7M</b><br/><sub>daily NAV rows</sub></td>
+          <td align="center" width="25%"><b>179 → 5</b><br/><sub>funds shortlisted</sub></td>
+          <td align="center" width="25%"><b>−3.6%</b><br/><sub>worst fall vs −4.8% for peers</sub></td>
         </tr>
       </table>
-      <p><sub>Yahoo Finance + AMFI → Azure Blob → Data Factory → Azure SQL star schema → risk suite in Python → Prophet NAV forecasts → 4-page Power BI report and a live Streamlit app.</sub></p>
-      <ul><li>Full risk suite: <b>Sharpe, Sortino, Treynor</b>, alpha/beta and max drawdown</li><li><b>30/60/90-day</b> Prophet NAV forecasts with confidence bands</li><li>Azure Data Factory pipeline running end to end into a <b>star schema</b></li></ul>
+      <p><sub>Yahoo Finance + AMFI → Azure Blob → Data Factory → Azure SQL star schema → risk suite in Python → 4-page Power BI report and a live Streamlit app.</sub></p>
+      <ul><li>Tested the 5-fund shortlist out of sample: return matched peers (<b>9.6% vs 9.5%</b>), with a shallower worst fall in <b>11 of 11</b> overlapping windows</li><li><b>Trend exploration, not forecasting:</b> Prophet lost to a no-change baseline at 30, 60 and 90 days, so it only describes trends</li><li>Every project number comes from <b>one generated file</b>, and a test fails if the README drifts from it</li></ul>
       <p><kbd>Azure ADF</kbd> <kbd>Azure SQL</kbd> <kbd>Python</kbd> <kbd>Prophet</kbd> <kbd>Power BI</kbd> <kbd>Streamlit</kbd></p>
       <p><a href="https://github.com/Skpkush/mf-analytics-platform"><code>→ view repo</code></a> &nbsp; <a href="https://mf-analytics-platform-nmndaxxuzmzhckvswpue3h.streamlit.app/"><code>🟢 live</code></a></p>
     </td>
