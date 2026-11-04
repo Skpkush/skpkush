@@ -90,11 +90,11 @@ sumit_prajapat=# \x on   -- expanded display: full detail per project
           <td align="center" width="25%"><b>558K</b><br/><sub>claims</sub></td>
           <td align="center" width="25%"><b>226×</b><br/><sub>fraud concentration</sub></td>
           <td align="center" width="25%"><b>90.1%</b><br/><sub>fraud recall</sub></td>
-          <td align="center" width="25%"><b>$295.7M</b><br/><sub>exposure flagged</sub></td>
+          <td align="center" width="25%"><b>$295.7M</b><br/><sub>at 506 flagged providers</sub></td>
         </tr>
       </table>
       <p><sub>Azure Blob → Data Factory → PostgreSQL 9-table warehouse (2.43M rows) → scikit-learn fraud model (AUC 0.9573) → 4-page Power BI report with provider drill-through.</sub></p>
-      <ul><li>Top billing quartile: <b>34.02%</b> fraud rate vs <b>0.15%</b> in the bottom quartile</li><li><b>96%</b> of high-velocity providers (&gt;10 claims/day) are fraud-flagged</li><li>Fraud providers file 9+ diagnosis codes <b>1.66×</b> as often — diagnosis stuffing</li></ul>
+      <ul><li>Top billing quartile: <b>34.02%</b> fraud rate vs <b>0.15%</b> in the bottom quartile</li><li>Audit list: top <b>50</b> providers (0.9%) cover <b>35.3%</b> of flagged dollars, and all 50 are flagged</li><li>Threshold tuning lifted XGBoost recall from <b>65%</b> to <b>93%</b>, at the cost of a larger review queue</li><li><b>96%</b> of high-velocity providers (&gt;10 claims/day) are fraud-flagged</li><li>Fraud providers file 9+ diagnosis codes <b>1.66×</b> as often — diagnosis stuffing</li></ul>
       <p><kbd>Azure ADF</kbd> <kbd>PostgreSQL</kbd> <kbd>Python</kbd> <kbd>scikit-learn</kbd> <kbd>Power BI</kbd> <kbd>DAX</kbd></p>
       <p><a href="https://github.com/Skpkush/Healthcare-Insurance-Claims-Analytics"><code>→ view repo</code></a></p>
     </td>
